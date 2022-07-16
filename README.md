@@ -1,10 +1,4 @@
 <!---
-- 👋 Hi, I’m @AkuLinker
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 AkuLinker/AkuLinker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -19,6 +13,8 @@ My name is Ivan and I'm a Python developer.
 ![](https://img.shields.io/badge/Scrapy-green)
 ![](https://img.shields.io/badge/-SQLAlchemy-green)
 
-![https://t.me/akulinker](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)
+My contacts
+[![](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/akulinker)
+[![](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](Akulinker@gmail.com)
        
 ![](https://komarev.com/ghpvc/?username=AkuLinker)
