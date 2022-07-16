@@ -3,8 +3,8 @@ AkuLinker/AkuLinker is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hello!  
-## My name is Ivan and I'm a Python developer.
+Hello!  
+My name is Ivan and I'm a Python developer.  
 <div id="badges">
   <a https://t.me/akulinker">
     <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Gmail-critical?style=social&logo=gmail&logoColor=critical" alt="Gmail Badge"/>
   </a>
 </div>
-
-
+  
+  
 ![](https://img.shields.io/badge/PYTHON-blue)
 ![](https://img.shields.io/badge/Django-green)
 ![](https://img.shields.io/badge/-Flask-green)
