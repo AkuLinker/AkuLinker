@@ -12,9 +12,9 @@ My name is Ivan and I'm a Python developer.
   <a href="mailto:Akulinker@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-critical?style=social&logo=gmail&logoColor=critical" alt="Gmail Badge"/>
   </a>
-</div>
-  
-  
+</div>  
+
+
 ![](https://img.shields.io/badge/PYTHON-blue)
 ![](https://img.shields.io/badge/Django-green)
 ![](https://img.shields.io/badge/-Flask-green)
