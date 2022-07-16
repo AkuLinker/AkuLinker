@@ -13,8 +13,8 @@ My name is Ivan and I'm a Python developer.
 ![](https://img.shields.io/badge/Scrapy-green)
 ![](https://img.shields.io/badge/-SQLAlchemy-green)
 
-My contacts
+My contacts  
 [![](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/akulinker)
-[![](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](Akulinker@gmail.com)
+[![](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:Akulinker@gmail.com)
        
 ![](https://komarev.com/ghpvc/?username=AkuLinker)
