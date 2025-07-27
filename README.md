@@ -20,6 +20,3 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/FastAPI-green)
 ![](https://img.shields.io/badge/Scrapy-green)
 ![](https://img.shields.io/badge/-SQLAlchemy-green)
-
-
-![](https://komarev.com/ghpvc/?username=AkuLinker)
