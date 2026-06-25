@@ -11,12 +11,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Gmail-critical?style=social&logo=gmail&logoColor=critical" alt="Gmail Badge"/>
   </a>
 </div>
-
-###
-
-![](https://img.shields.io/badge/PYTHON-blue)
-![](https://img.shields.io/badge/Django-green)
-![](https://img.shields.io/badge/-Flask-green)
-![](https://img.shields.io/badge/FastAPI-green)
-![](https://img.shields.io/badge/Scrapy-green)
-![](https://img.shields.io/badge/-SQLAlchemy-green)
